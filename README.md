@@ -25,20 +25,27 @@ The results obtained through the implementation of this project are evaluated wi
 ## Uformer
 
 Convallaria
+
 ![image](https://user-images.githubusercontent.com/91577811/169423969-8e00be4d-2c1e-446e-b6a9-4a07583f5c24.png)
 
 Confocal_MICE
+
 ![image](https://user-images.githubusercontent.com/91577811/169424050-5b597de7-58c1-45b8-99df-74f07f3b0f1b.png)
 
 ## Poolformer
 
 SSID
+
 ![image](https://user-images.githubusercontent.com/91577811/169423025-3228ebd3-e24b-4c17-b426-b33de99f8303.png)
 
 Convallaria
+
 ![image](https://user-images.githubusercontent.com/91577811/169424149-93c326f7-be19-494e-b0d4-ae670e4b41f5.png)
 
 Confocal_MICE
+
 ![image](https://user-images.githubusercontent.com/91577811/169424092-8c588546-09ab-4d81-8870-227ae2e8253a.png)
 
+# Contact
 
+Walter Bustillo (walterbusttillo18@outlook.com)
